@@ -8,11 +8,12 @@
 
 ### Lab Foundations
 - **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
-- Active Directory project
+  
 
 
 ### Identity & Access Security
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
+- Active Directory project [view project](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions)
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
