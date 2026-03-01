@@ -14,7 +14,7 @@
 ### Identity & Access Security
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
 - Active Directory Project [view project](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions)
-- AWS IAM Cloud Security Project
+- AWS IAM Cloud Security Project [view project](https://github.com/Yem-Tech/AWS-IAM-Cloud-Security-Project)
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
