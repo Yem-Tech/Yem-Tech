@@ -17,7 +17,7 @@
 - AWS IAM Cloud Security Project [view project](https://github.com/Yem-Tech/AWS-IAM-Cloud-Security-Project)
 
 ### Vulnerability & Risk Management
-- **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
+- **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies [view project](https://github.com/Yem-Tech/HypertechAi-security-policies)
 - **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto
 - **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 
