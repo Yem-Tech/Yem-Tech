@@ -7,7 +7,7 @@
 ## 🛡 Project Highlights
 
 ### Lab Foundations
-- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
+- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)[view project](https://github.com/Yem-Tech/Foundational-Virtual-Network-Lab)
   
 
 
