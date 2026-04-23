@@ -61,9 +61,9 @@
 | Folder | Description | Link |
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Yem-Tech/Foundational-Virtual-Network-Lab.git) |
-| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions.git) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
+| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Yem-Tech/HypertechAi-security-policies.git) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
