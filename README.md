@@ -33,7 +33,7 @@
 
 ### Social Engineering Defence
 - **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher [view project](https://github.com/Yem-Tech/Phishing-Simulation-Campaign/blob/main/README.md)
-- **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
+- **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation [view project](https://github.com/Yem-Tech/phishing-email-forensics-analysis/blob/main/README.md)
 
 ### Offensive Security Simulations
 - **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
