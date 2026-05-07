@@ -24,7 +24,7 @@
 
 ### Detection & Monitoring
 - **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk
-- **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues
+- **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues [view project](https://github.com/Yem-Tech/Linux-Permission-Audit)
 - **Suricata IDS Deployment** – Signature-based intrusion detection
 - **Honeypot Deployment** – Capturing and analysing attacker behaviour
 
