@@ -32,7 +32,7 @@
 - **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
 
 ### Social Engineering Defence
-- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
+- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher [view project](https://github.com/Yem-Tech/Phishing-Simulation-Campaign/blob/main/README.md)
 - **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
 
 ### Offensive Security Simulations
