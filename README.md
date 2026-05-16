@@ -36,7 +36,7 @@
 - **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation [view project](https://github.com/Yem-Tech/phishing-email-forensics-analysis/blob/main/README.md)
 
 ### Offensive Security Simulations
-- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
+- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests [view project](https://github.com/Yem-Tech/Sql-Injection-Assessment/blob/main/README.md)
 
 ### Malware & Exploit Analysis
 - **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
