@@ -63,8 +63,6 @@
 
 ## Featured Repositories
 
-| Folder | Description | Link |
-|--------|-------------|------|
 | # | Project | Description | Repository |
 |---:|---|---|---|
 | 01 | Automated Phishing Detection SOC Lab | Automated phishing analysis, IOC extraction, enrichment, risk scoring, alerting, and SOC incident triage | [View Repo](https://github.com/Yem-Tech/automated-phishing-detection-soc-lab) |
@@ -83,7 +81,6 @@
 | 14 | Risk Assessment | CIA impact analysis, risk scoring, treatment selection, and remediation planning | Coming soon |
 | 15 | Active Directory Enumeration | Active Directory enumeration, attack-path analysis, and privilege-escalation testing | Coming soon |
 | 16 | Malware Analysis | Static and dynamic malware triage using strings, PEStudio, and sandbox analysis | Coming soon |
-
 ---
 
 ## Contact
