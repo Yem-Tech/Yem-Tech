@@ -8,8 +8,13 @@
 
 ### Lab Foundations
 - **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)[view project](https://github.com/Yem-Tech/Foundational-Virtual-Network-Lab)
-  
 
+### Security Automation & Threat Intelligence
+
+- **MalwareBazaar Threat Intelligence Integration with Splunk** – Automated Python pipeline that retrieves malware metadata from MalwareBazaar, forwards new indicators to Splunk through HEC, prevents duplicate ingestion using SHA-256 hashes, and supports dashboards, alerts, scheduled reports, risk scoring, and MITRE ATT&CK analysis. [View Project](https://github.com/Yem-Tech/MalwareBazaar-Threat-Intelligence-Integration-with-Splunk)
+
+- **Automated Phishing Detection SOC Lab** – Automated SOC workflow for extracting and analyzing phishing indicators, enriching suspicious artifacts, assigning risk classifications, and supporting alerting and incident triage. [View Project](https://github.com/Yem-Tech/automated-phishing-detection-soc-lab)
+  
 
 ### Identity & Access Security
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
@@ -60,20 +65,24 @@
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Yem-Tech/Foundational-Virtual-Network-Lab.git) |
-| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions.git) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Yem-Tech/HypertechAi-security-policies.git) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
-| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
-| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
-| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
-| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-|
+| # | Project | Description | Repository |
+|---:|---|---|---|
+| 01 | Automated Phishing Detection SOC Lab | Automated phishing analysis, IOC extraction, enrichment, risk scoring, alerting, and SOC incident triage | [View Repo](https://github.com/Yem-Tech/automated-phishing-detection-soc-lab) |
+| 02 | MalwareBazaar–Splunk Integration | Automated threat-intelligence ingestion using Python and Splunk HEC, with SHA-256 deduplication, dashboards, alerts, reports, and systemd automation | [View Repo](https://github.com/Yem-Tech/MalwareBazaar-Threat-Intelligence-Integration-with-Splunk) |
+| 03 | Nessus-Based Risk Assessment | Vulnerability identification, severity assessment, risk prioritization, and remediation recommendations | [View Repo](https://github.com/Yem-Tech/Nessus-Based-Risk-Assessment) |
+| 04 | Vulnerability Assessment | Network and web-application security assessment using Nmap and Nikto | [View Repo](https://github.com/Yem-Tech/Vulnerability-Assessment-Report-halisans.com) |
+| 05 | Active Directory Deployment | Windows domain deployment and security hardening using organizational units, groups, users, and baseline GPOs | [View Repo](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions) |
+| 06 | Foundational Virtual Network Lab | Multi-VM cybersecurity environment using Windows, Linux, pfSense, and security-monitoring systems | [View Repo](https://github.com/Yem-Tech/Foundational-Virtual-Network-Lab) |
+| 07 | Phishing Email Forensics | Email-header, domain, SPF, DKIM, DMARC, and phishing-indicator analysis | [View Repo](https://github.com/Yem-Tech/phishing-email-forensics-analysis) |
+| 08 | Linux Permissions Audit | Identification and remediation of insecure permissions, world-writable files, and SUID risks | [View Repo](https://github.com/Yem-Tech/Linux-Permission-Audit) |
+| 09 | Security Policy Development | Development of acceptable-use, password, and access-control security policies | [View Repo](https://github.com/Yem-Tech/HypertechAi-security-policies) |
+| 10 | Phishing Simulation Campaign | Controlled phishing simulation, campaign measurement, and security-awareness analysis | [View Repo](https://github.com/Yem-Tech/Phishing-Simulation-Campaign) |
+| 11 | SQL Injection Assessment | Web-application SQL injection testing, exploitation validation, and remediation guidance | [View Repo](https://github.com/Yem-Tech/Sql-Injection-Assessment) |
+| 12 | Network Monitoring | Security Onion and Splunk dashboards for security-event monitoring and investigation | Coming soon |
+| 13 | MITRE ATT&CK Threat Hunt | ATT&CK-aligned threat-hunting searches, detection logic, and technique mapping | Coming soon |
+| 14 | Risk Assessment | CIA impact analysis, risk scoring, treatment selection, and remediation planning | Coming soon |
+| 15 | Active Directory Enumeration | Active Directory enumeration, attack-path analysis, and privilege-escalation testing | Coming soon |
+| 16 | Malware Analysis | Static and dynamic malware triage using strings, PEStudio, and sandbox analysis | Coming soon |
 
 ---
 
