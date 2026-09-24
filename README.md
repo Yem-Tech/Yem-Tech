@@ -12,6 +12,7 @@
 ### Security Automation & Threat Intelligence
 
 - **MalwareBazaar Threat Intelligence Integration with Splunk** – Automated Python pipeline that retrieves malware metadata from MalwareBazaar, forwards new indicators to Splunk through HEC, prevents duplicate ingestion using SHA-256 hashes, and supports dashboards, alerts, scheduled reports, risk scoring, and MITRE ATT&CK analysis. [View Project](https://github.com/Yem-Tech/MalwareBazaar-Threat-Intelligence-Integration-with-Splunk)
+- Natural Language CSV Log Query — Built a Python and Streamlit tool that translates security-log questions into validated queries and searches CSV logs locally. [View Project](https://github.com/Yem-Tech/Natural-Language-CSV-Log-Query)
 
 - **Automated Phishing Detection SOC Lab** – Automated SOC workflow for extracting and analyzing phishing indicators, enriching suspicious artifacts, assigning risk classifications, and supporting alerting and incident triage. [View Project](https://github.com/Yem-Tech/automated-phishing-detection-soc-lab)
   
