@@ -12,20 +12,20 @@
 ### Security Automation & Threat Intelligence
 
 - **MalwareBazaar Threat Intelligence Integration with Splunk** – Automated Python pipeline that retrieves malware metadata from MalwareBazaar, forwards new indicators to Splunk through HEC, prevents duplicate ingestion using SHA-256 hashes, and supports dashboards, alerts, scheduled reports, risk scoring, and MITRE ATT&CK analysis. [View Project](https://github.com/Yem-Tech/MalwareBazaar-Threat-Intelligence-Integration-with-Splunk)
-- Natural Language CSV Log Query — Built a Python and Streamlit tool that translates security-log questions into validated queries and searches CSV logs locally. [View Project](https://github.com/Yem-Tech/Natural-Language-CSV-Log-Query)
+- **Natural Language CSV Log Query** — Built a Python and Streamlit tool that translates security-log questions into validated queries and searches CSV logs locally. [View Project](https://github.com/Yem-Tech/Natural-Language-CSV-Log-Query)
 
 - **Automated Phishing Detection SOC Lab** – Automated SOC workflow for extracting and analyzing phishing indicators, enriching suspicious artifacts, assigning risk classifications, and supporting alerting and incident triage. [View Project](https://github.com/Yem-Tech/automated-phishing-detection-soc-lab)
   
 
 ### Identity & Access Security
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
-- Active Directory Project [view project](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions)
-- AWS IAM Cloud Security Project [view project](https://github.com/Yem-Tech/AWS-IAM-Cloud-Security-Project)
+- **Active Directory Project** [view project](https://github.com/Yem-Tech/Active-Directory-Simulation-HyperTech-Solutions)
+- **AWS IAM Cloud Security Project** [view project](https://github.com/Yem-Tech/AWS-IAM-Cloud-Security-Project)
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies [view project](https://github.com/Yem-Tech/HypertechAi-security-policies)
 - **Vulnerability Assessment** – Network and web application scans with Nmap, and Nikto [view project](https://github.com/Yem-Tech/Vulnerability-Assessment-Report-halisans.com)
-- Nessus [view project](https://github.com/Yem-Tech/Nessus-Based-Risk-Assessment)
+- **Nessus** [view project](https://github.com/Yem-Tech/Nessus-Based-Risk-Assessment)
 - **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 
 ### Detection & Monitoring
